@@ -43,7 +43,7 @@ dependencies {
     implementation("com.google.android.material:material:1.11.0")
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
     implementation ("com.github.prolificinteractive:material-calendarview:2.0.0")
-    implementation ("com.ernestoyaquello.dragdropswiperecyclerview:drag-drop-swipe-recyclerview:1.2.0")
+    implementation ("com.github.WilliBoelke:simple-recycler-view-swipe-gestures:1.3")
     val room_version = "2.6.1"
     implementation("androidx.room:room-runtime:$room_version")
     annotationProcessor("androidx.room:room-compiler:$room_version")
